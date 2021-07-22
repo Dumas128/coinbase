@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+"GARKPCFBMSPI2B57GIMQSQ6ICIV42HCYRLCSQC5CVB6OI5PYZRRBF4VY"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Mishka Token"
-ORG_URL="https://mishkatoken.com/"
-ORG_DESCRIPTION="MISHKA is 100% decentralized and is run by our community of Inu Killers."
-ORG_TWITTER="@MishkaToken"
-ORG_LOGO="https://i.ibb.co/HdCL6hv/mishka.png"
-ORG_OFFICIAL_EMAIL="contact@mishka.com"
+ORG_NAME="Sova Laboratory"
+ORG_URL="https://sovalaboratory.com/"
+ORG_DESCRIPTION="Your key to getting the most out of Sova. Enjoy great benefits and discounts"
+ORG_TWITTER="@Sova"
+ORG_LOGO="https://i.ibb.co/6P0Rz0W/owlll.png"
+ORG_OFFICIAL_EMAIL="contact@sova.com"
 
 
 [[CURRENCIES]]
-code="MISHKA"
-issuer="GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+code="SOVA"
+issuer="GARKPCFBMSPI2B57GIMQSQ6ICIV42HCYRLCSQC5CVB6OI5PYZRRBF4VY"
 anchor_asset="false"
-name="Mishka Token"
-desc="Mishka Token is a (mostly) friendly, community-focused ERC-20 cryptocurrency with a taste for competition. Mishka Token stops harmful automated bot traders from selling or transferring their $MISHKA, forever locking their Ethereum into the ecosystem. We call this technology HoneyBot, pioneered by FTP Anti Bot."
+name="Sova"
+desc="Your BEST holdings increase by more than 12% each year! All you have to do is have BEST in your Sova wallet and do at least one monthly trade. The higher your BEST VIP level and the more you trade, the more you can claim every month."
 conditions=""
-image="https://i.ibb.co/HdCL6hv/mishka.png"
-fixed_number=2000000
-max_number=2000000
+image="https://i.ibb.co/6P0Rz0W/owlll.png"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#Mishka Token was issued using the open and inclusive Stellar blockchain network.
+#Sova was issued using the open and inclusive Stellar blockchain network.
