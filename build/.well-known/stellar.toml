@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GARKPCFBMSPI2B57GIMQSQ6ICIV42HCYRLCSQC5CVB6OI5PYZRRBF4VY"
+"GCJJZ57MJ3NR6WFFCT7GQVKHP24WEFJVRVEMUXHZKNLDLXOMRAMTKZSS"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Sova Laboratory"
-ORG_URL="https://sovalaboratory.com/"
-ORG_DESCRIPTION="Your key to getting the most out of Sova. Enjoy great benefits and discounts"
-ORG_TWITTER="@Sova"
-ORG_LOGO="https://i.ibb.co/6P0Rz0W/owlll.png"
-ORG_OFFICIAL_EMAIL="contact@sova.com"
+ORG_NAME="CoinBase Laboratory"
+ORG_URL="https://coinbaselaboratory.com/"
+ORG_DESCRIPTION="We are building the cryptoeconomy – a more fair, accessible, efficient, and transparent financial system enabled by crypto."
+ORG_TWITTER="@CoinBase"
+ORG_LOGO="https://i.ibb.co/gRZ1YRW/wwww.png"
+ORG_OFFICIAL_EMAIL="contact@coinbase.com"
 
 
 [[CURRENCIES]]
-code="SOVA"
-issuer="GARKPCFBMSPI2B57GIMQSQ6ICIV42HCYRLCSQC5CVB6OI5PYZRRBF4VY"
+code="COINBASE"
+issuer="GCJJZ57MJ3NR6WFFCT7GQVKHP24WEFJVRVEMUXHZKNLDLXOMRAMTKZSS"
 anchor_asset="false"
-name="Sova"
-desc="Your BEST holdings increase by more than 12% each year! All you have to do is have BEST in your Sova wallet and do at least one monthly trade. The higher your BEST VIP level and the more you trade, the more you can claim every month."
+name="CoinBase"
+desc="We are official bridge between Lobstr and Coinbase Exchange.Customers around the world discover and begin their journeys with crypto through Coinbase."
 conditions=""
-image="https://i.ibb.co/6P0Rz0W/owlll.png"
+image="https://i.ibb.co/gRZ1YRW/wwww.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#Sova was issued using the open and inclusive Stellar blockchain network.
+#CoinBase was issued using the open and inclusive Stellar blockchain network.
